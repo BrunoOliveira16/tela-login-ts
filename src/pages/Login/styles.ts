@@ -24,13 +24,14 @@ export const Content = styled.div `
 
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: .5rem;
 `
 
 export const Title = styled.h2 `
     font-size: 1.4rem;
     color: #6495ED;
     text-align: left;
+    margin-bottom: 1rem;
 
     &:hover {
         color: #FFFFFF;

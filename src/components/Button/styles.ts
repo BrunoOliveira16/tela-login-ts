@@ -4,7 +4,7 @@ export const ButtonContainer = styled.button `
     max-width: 100%;
     width: 100%;
     padding: .8rem 1rem;
-    margin: 1rem 0;
+    margin: 4rem 0 0;
     border: none;
     border-radius: .3rem;
 
